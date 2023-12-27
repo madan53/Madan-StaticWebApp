@@ -1,2 +1,0 @@
-This is a second file 
-Created for the Git Hub Testing
